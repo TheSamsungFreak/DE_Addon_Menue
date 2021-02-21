@@ -4,16 +4,25 @@
 <channel> 
 <name>[B]German TV[/B]</name> 
 <thumbnail>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</thumbnail> 
-<externallink>      </externallink> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/DE_TV_Menue/main/DE_TV_Menue</externallink> 
 <fanart>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</fanart> 
 <info></info> 
 </channel>
 
 <channels> 
 <channel> 
-<name>[B]German VOD[/B]</name> 
+<name>[B]German Filme[/B]</name> 
 <thumbnail>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</thumbnail> 
-<externallink>      </externallink> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Filmy_DE_Menue/main/Filmy_DE_Menue</externallink> 
+<fanart>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]German Seriale[/B]</name> 
+<thumbnail>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_DE_Menue/main/Seriale_DE_Menue</externallink> 
 <fanart>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</fanart> 
 <info></info> 
 </channel>
